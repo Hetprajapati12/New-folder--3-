@@ -1,0 +1,53 @@
+[
+    {
+      "context": "Section 1: Important Information\nThis policy booklet provides details of our cover...",
+      "question": "What information is provided in the policy booklet?",
+      "answer": "The policy booklet provides details of cover, exclusions, and conditions."
+    },
+    {
+      "context": "Section 2: Definitions\nAccessories: Additional items fitted to your car...",
+      "question": "What are accessories as defined in the policy?",
+      "answer": "Accessories are additional items fitted to your car."
+    },
+    {
+      "context": "Section 3: Cover Provided\nThe policy covers damage to your car caused by...",
+      "question": "What does the policy cover regarding car damage?",
+      "answer": "The policy covers damage to your car caused by various factors such as accidents and theft."
+    },
+    {
+      "context": "Section 4: Exclusions\nThis policy does not cover damage caused by...",
+      "question": "What are some exclusions mentioned in the policy?",
+      "answer": "The policy does not cover damage caused by wear and tear, mechanical breakdown, or using the car for hire."
+    },
+    {
+      "context": "Section 5: Conditions\nThe policyholder must keep the car in a roadworthy condition...",
+      "question": "What condition must the policyholder keep the car in?",
+      "answer": "The policyholder must keep the car in a roadworthy condition."
+    },
+    {
+      "context": "Section 6: Claims\nTo make a claim, you must contact us immediately and provide details...",
+      "question": "What must you do to make a claim?",
+      "answer": "To make a claim, you must contact the insurer immediately and provide details of the incident."
+    },
+    {
+      "context": "Section 7: Endorsements\nEndorsements may apply to this policy...",
+      "question": "What are endorsements in the policy?",
+      "answer": "Endorsements are additional terms or conditions that may apply to the policy."
+    },
+    {
+    "context": "Section 8: No Claim Discount\nYou may qualify for a no claim discount if no claims are made...",
+      "question": "What is a no claim discount?",
+      "answer": "A no claim discount is a reduction in your premium if no claims are made during the policy period."
+    },
+    {
+      "context": "Section 9: Cancellation\nYou may cancel this policy at any time by contacting us...",
+      "question": "How can you cancel the policy?",
+      "answer": "You can cancel the policy at any time by contacting the insurer."
+    },
+    {
+      "context": "Section 10: Complaints\nIf you are not satisfied with the service provided, you can make a complaint...",
+      "question": "How can you make a complaint?",
+      "answer": "If you are not satisfied with the service, you can make a complaint to the insurer."
+    }
+]
+  
